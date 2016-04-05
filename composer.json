@@ -1,0 +1,23 @@
+{
+  "name": "bentools/twig-extensions",
+  "description": "Some twig extensions",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Beno!t POLASZEK"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "BenTools\\": "src/BenTools"
+    }
+  },
+  "require-dev": {
+    "symfony/symfony": "~2.3|^3.0",
+    "twig/twig": "1.*"
+  }
+}
