@@ -3,6 +3,9 @@ BenToolsTwigExtensions
 
 Some helpful twig extensions.
 
+> [!IMPORTANT]  
+> This repository is no longer maintained and may be removed in a near future. You may consider forking it.
+
 Installation
 ---------
 ```
